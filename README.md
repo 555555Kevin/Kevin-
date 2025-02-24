@@ -1,8 +1,8 @@
-Hi 👋 My name is kevin
+Hi 👋 My name is Kevin
 ======================
 
-A programing student
---------------------
+A programming student
+---------------------
 
 I am currently a student learning programing
 
